@@ -19,6 +19,9 @@ and patient demographics.
 | `patient_records.csv` | 1000 patient names & gender |
 | `patient_details.csv` | Patient full details |
 | `obesity_analysis.csv` | Obesity classification data |
+| `gender_count.csv` | Gender distribution of patients |
+| `allergy_analysis.csv` | Allergy patterns among patients |
+
 
 ## 🚧 Project Status
 | Task | Status |
@@ -26,15 +29,15 @@ and patient demographics.
 | Data Export from MySQL | ✅ Done |
 | Patient Demographics | ✅ Done |
 | Obesity Analysis | ✅ Done |
-| Gender Analysis | ⏳ Coming soon |
-| Allergy Analysis | ⏳ Coming soon |
-| Final Summary Report | ⏳ Coming soon |
+| Gender Analysis | ✅ Done |
+| Allergy Analysis | ✅ Done |
+| Final Summary Report | ✅ Done |
 
 ## 📅 Update Log
 | Date | Update |
 |------|--------|
 | Mar 13, 2026 | Initial upload |
-| Mar 19, 2026 | Adding more analysis |
+| Mar 18, 2026 | Added gender count and allergy analysis |
 
 ---
 🔗 Connect with me on LinkedIn: [Click Here](https://www.linkedin.com/in/madhusudhanreddy-rajala-060990286)
